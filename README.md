@@ -8,3 +8,5 @@ Automatic testing system for environmental sensor network using aerial drones
 4. Send a transaction to create a mission smart contract using the hash from the last step
 5. The drone takes off to deliver a mission from IPFS
 6. When the drone returns, it publishes environmental analysis data to IPFS
+
+Tools: Metamask, Parity, ROS, gazebo.
